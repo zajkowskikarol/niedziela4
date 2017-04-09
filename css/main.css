@@ -22,10 +22,32 @@
 .navigation__list__item__link--active {
     color: #C44D58;
 } 
+.grzyb{
+    color:hotpink;
+}
+
+} 
+.kardasz1{
+    color: blueviolet;
+}
+.kardasz2{
+    font-style: italic;
+}
+.kardasz3{
+    color: yellowgreen;
+}
+
+p {
+    color:red;
+}
 .zajkowski {
     color: #752;
 }
 
 .skowronska{
 	color:yellow;
+}
+
+.tkacz {
+    color: chartreuse;
 }
